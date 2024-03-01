@@ -1,0 +1,1 @@
+hello now i m pulled from github using comman d in terminal git pull hahahahhaa
